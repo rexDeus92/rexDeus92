@@ -16,9 +16,8 @@
 ## 🚀 Лучшие проекты
 - [🎵 Copy SoundCloud](https://github.com/rexDeus92/Copy-SoundCloud) – React 
 - [🚑 GoCorona](https://github.com/rexDeus92/GoCorona) – Html + SCSS 
-- [☕ oFerror](https://github.com/rexDeus92/oFerror) – Html + SCSS 
-*(Скоро добавлю еще 2-3 проекта)*
-
+- [☕ oFerror](https://github.com/rexDeus92/oFerror) – Html + SCSS
+- 
 ---
 
 ## 📫 Контакты
