@@ -14,7 +14,7 @@
 ---
 
 ## 🚀 Лучшие проекты
-- [🎵 Copy SoundCloud](https://github.com/rexDeus92/Copy-SoundCloud) – React + Tailwind  
+- [🎵 Copy SoundCloud](https://github.com/rexDeus92/Copy-SoundCloud) – React 
 *(Скоро добавлю еще 2-3 проекта)*
 
 ---
