@@ -20,5 +20,4 @@
 ---
 
 ## 📫 Контакты
-- **Telegram:** [@ТВОЙ_ник](https://t.me/ТВОЙ_ник)  
-- **Kwork:** [Профиль](https://kwork.ru/)
+- **Telegram:** [@Rexdeus92](https://t.me/@Rexdeus92)  
