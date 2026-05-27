@@ -36,16 +36,9 @@
 
 ---
 
-### 📉 Мой вклад
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rexdeus92&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rexdeus92&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
-</p>
-
 📫 **Связь со мной:**
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/твой_ник)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/твой_ник)
-[![Kwork](https://img.shields.io/badge/Kwork-5CB85C?style=for-the-badge&logo=kwork&logoColor=white)](https://kwork.ru/user/твой_ник)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Rexdeus92)
+[![Kwork](https://img.shields.io/badge/Kwork-5CB85C?style=for-the-badge&logo=kwork&logoColor=white)](https://kwork.ru/user/_yakub_1221_)
 
 ---
 *«Дизайн — это не то, как вещь выглядит, а то, как она работает». — Стив Джобс*
