@@ -33,10 +33,6 @@
 *   **Automation:** Python (Selenium, AIOgram), Bash/PowerShell.
 *   **Design Styles:** Glassmorphism, Neumorphism, Cyberpunk, Scandinavian Minimalism.
 
-### 🤖 Автоматизация и Python
-Я активно использую Python для оптимизации рабочих процессов:
-- Разработка Telegram ботов (парсеры, системы уведомлений для Kwork).
-- Скрипты для автоматизации GitHub Workflow (авто-обновление README и деплой).
 
 ---
 
