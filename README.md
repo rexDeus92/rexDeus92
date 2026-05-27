@@ -17,6 +17,7 @@
 ### 💼 Современные веб-решения (Functional Design)
 Проекты, ориентированные на бизнес-задачи и удобство пользователя:
 
+*   😎 [**Streaming Platform**](https://rexdeus92.github.io/pet_streaming_platform) = Стриминговая платформа 
 *   🎓 [**CodeSphere Academy**](https://rexdeus92.github.io/codesphere-academy) — Платформа для онлайн-обучения программированию.
 *   🏢 [**CityGuide**](https://rexdeus92.github.io/cityguide) — Умный каталог локальных заведений и бизнеса.
 *   💡 [**Ecolytiq**](https://rexdeus92.github.io/ecolytiq) — SaaS-платформа для энергоэффективности дома.
