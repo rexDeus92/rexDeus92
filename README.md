@@ -11,7 +11,7 @@
 *   🧠 [**Mental Health Tracker**](https://rexdeus92.github.io/mental-health-tracker) — Спокойный интерфейс с мягкими градиентами.
 *   ⚡ [**UE5 Course**](https://rexdeus92.github.io/ue5-course-landing) — Игровой HUD для образовательной платформы.
 *   🔥 [**Hot Sauce Shop**](https://rexdeus92.github.io/hot-sauce-subscription) — Крафтовый дизайн в стиле Grunge.
-*   🌿 [**EcoClean**](https://rexdeus92.github.io/ecoclean-landing) — Чистый и свежий интерфейс для эко-сервиса.
+*   🌿 [**EcoClean**](https://rexdeus92.github.io/Ecoclean-landing) — Чистый и свежий интерфейс для эко-сервиса.
 *   🏙️ [**Urban Decay**](https://rexdeus92.github.io/urban-decay) — Индустриальный дизайн и уличная эстетика.
 
 ### 💼 Современные веб-решения (Functional Design)
