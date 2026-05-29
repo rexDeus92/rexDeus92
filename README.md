@@ -23,7 +23,6 @@
 *   💡 [**Ecolytiq**](https://rexdeus92.github.io/ecolytiq) — SaaS-платформа для энергоэффективности дома.
 *   🧘 [**Maya Wellness**](https://rexdeus92.github.io/maya-wellness) — Лендинг для коуча по здоровью и нутрициологии.
 *   👔 [**Alex Morgan Portfolio**](https://rexdeus92.github.io/alex-morgan-portfolio) — Темная тема для персонального бренда разработчика.
-*   📑 [**My Resume**](https://rexdeus92.github.io/resume) — Интерактивная версия моего резюме.
 
 ---
 
